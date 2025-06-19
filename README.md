@@ -1,8 +1,8 @@
-# TradeLens
+# MyTradeDNA
 
 **See Your Trading in a New Light: Your Personal AI-Powered Trading Journal.**
 
-> "The goal is not to be right all the time, but to be wrong for shorter periods." — TradeLens helps you understand *how* and *when* you are wrong, so you can build on what works.
+> "The goal is not to be right all the time, but to be wrong for shorter periods." — MyTradeDNA helps you understand *how* and *when* you are wrong, so you can build on what works.
 
 
 ---
@@ -16,7 +16,7 @@ For most individual investors, trading decisions often rely on intuition, news, 
 * Which sectors are my "Alpha zone," and which are my blind spots?
 * Does the size of my trade or the day of the week affect my win rate?
 
-**TradeLens** is engineered to answer these questions. It is not a trading bot or a stock-picking service. It is a powerful **personal trading analysis engine**. By ingesting your (or mock) trading history, it combines real-world market data and technical indicators, then leverages data visualization, machine learning, and deep learning models to give you a deep, objective "check-up" on your own trading behavior.
+**MyTradeDNA** is engineered to answer these questions. It is not a trading bot or a stock-picking service. It is a powerful **personal trading analysis engine**. By ingesting your (or mock) trading history, it combines real-world market data and technical indicators, then leverages data visualization, machine learning, and deep learning models to give you a deep, objective "check-up" on your own trading behavior.
 
 This project serves as a complete, end-to-end case study in building a Python data science pipeline—from data generation and environment setup to advanced modeling and professional backtesting.
 
@@ -63,8 +63,8 @@ This project was developed and validated in a clean Python 3.11 virtual environm
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Shuai-fa/TradeLens.git](https://github.com/Shuai-fa/TradeLens.git)
-    cd TradeLens
+    git clone [https://github.com/Shuai-fa/MyTradeDNA.git](https://github.com/Shuai-fa/MyTradeDNA.git)
+    cd MyTradeDNA
     ```
 
 2.  **Create and activate a Python 3.11 virtual environment:**
